@@ -1,0 +1,3 @@
+export const ADD_DATA_SUCCES = "ADD_DATA_SUCCES";
+export const ADD_DATA_FAILURE = "ADD_DATA_FAILURE";
+export const ADD_DATA_STARTED = "ADD_DATA_STARTED";
