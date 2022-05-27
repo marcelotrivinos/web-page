@@ -44,8 +44,10 @@
     ]
   },
   "devDependencies": {
+    "@types/redux-mock-store": "^1.0.3",
     "cypress": "^9.5.0",
     "jest": "^27.5.1",
-    "json-server": "^0.17.0"
+    "json-server": "^0.17.0",
+    "redux-mock-store": "^1.5.4"
   }
 }
